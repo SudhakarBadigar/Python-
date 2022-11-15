@@ -1,0 +1,10 @@
+a=bool(0);
+b=bool(1);
+ename="solman khan";
+name=bool(ename);
+print(a);
+print(b);
+print(ename);
+print(name);
+print(type(ename));
+print(type(name));
